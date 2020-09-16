@@ -36,5 +36,5 @@ end
 #
 #
 def clock_noise
-  puts ""
+  puts "tick"
 end
